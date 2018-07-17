@@ -48,4 +48,17 @@ http://github.com - automatic!
 As Kanye West said:
 
 > We're living the future so
-> the present is our past.
+> the present is our past.  
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```  
+
+yiyi | tutu
+---- | ----
+Chongqing| Hunan
+Karlsruhe| Suzhou

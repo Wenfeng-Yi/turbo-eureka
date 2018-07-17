@@ -22,7 +22,7 @@ Sometimes you want numbered list:
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
 
-I want to write some code here: 'arr1=arange(5)'  
+I want to write some code here: `arr1=arange(5)`  
 or like this
 
 ```python  

@@ -42,7 +42,7 @@ __This will also be bold__
 
 _You **can** combine them_
 
-http://github.com - automatic!
+http://github.com  
 [GitHub](http://github.com)  
 http://www.github.com  
 

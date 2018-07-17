@@ -43,7 +43,8 @@ __This will also be bold__
 _You **can** combine them_
 
 http://github.com - automatic!
-[GitHub](http://github.com)  
+[GitHub](http://github.com) 
+http://www.github.com/  
 
 As Kanye West said:
 
@@ -61,4 +62,6 @@ function fancyAlert(arg) {
 yiyi | tutu
 ---- | ----
 Chongqing| Hunan
-Karlsruhe| Suzhou
+Karlsruhe| Suzhou  
+
+~~this~~

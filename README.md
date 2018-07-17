@@ -59,7 +59,7 @@ function fancyAlert(arg) {
 }
 ```  
 
-yiyi | tutu
+yiyi :kissing_heart: | tutu
 ---- | ----
 Chongqing| Hunan
 Karlsruhe| Suzhou  

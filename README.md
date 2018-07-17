@@ -59,11 +59,11 @@ function fancyAlert(arg) {
 }
 ```  
 
-yiyi :kissing_heart | tutu
+yiyi | tutu
 ---- | ----
 Chongqing| Hunan
 Karlsruhe| Suzhou  
 
 ~~this~~  
 
-
+:kissing_heart

@@ -25,9 +25,9 @@ Sometimes you want numbered list:
 I want to write some code here: 'arr1=arange(5)'  
 or like this
  
-'''python
+'''python  
 for i in range(9):
-    print(i)
+    print(i)  
 '''  
 Tasks lists:
 
